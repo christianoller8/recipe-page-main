@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "name": "recipe-page-main",
+  "description": "![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
